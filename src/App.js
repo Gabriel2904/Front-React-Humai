@@ -5,7 +5,6 @@ import Header from "./Components/Header/";
 import Footer from "./Components/Footer/";
 import { Col, Row } from "react-bootstrap";
 
-
 function App() {
   return (
     <>
